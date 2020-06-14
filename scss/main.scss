@@ -1,0 +1,13 @@
+// Common imports
+@import './colors';
+@import './fonts';
+@import './responsiv_mixins';
+@import './typography';
+
+body {
+    background-color: $color-pidz-blue;
+}
+
+h1 {
+    color: white;
+}

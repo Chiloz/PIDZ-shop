@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AAMA,AAAA,IAAI,CAAC;EACD,gBAAgB,ECNF,OAAO;CDOxB;;AAED,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "main.scss",
+        "_colors.scss",
+        "_fonts.scss",
+        "_responsiv_mixins.scss",
+        "_typography.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
